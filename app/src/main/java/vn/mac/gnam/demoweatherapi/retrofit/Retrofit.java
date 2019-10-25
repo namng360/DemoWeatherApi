@@ -1,4 +1,4 @@
-package vn.mac.gnam.demoweatherapi;
+package vn.mac.gnam.demoweatherapi.retrofit;
 
 import retrofit2.converter.gson.GsonConverterFactory;
 
